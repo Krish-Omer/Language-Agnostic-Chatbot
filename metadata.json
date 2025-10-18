@@ -1,0 +1,7 @@
+{
+  "name": "The Binary Brigade Chatbot",
+  "description": "A multilingual conversational AI system for educational institutions to handle student queries efficiently. It supports multiple languages, can be embedded on websites, and offers features like speech recognition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
